@@ -1,1 +1,1 @@
-# Work Assignments from Python Specialization on Coursera#
+Work Assignments from Python Specialization on Coursera
